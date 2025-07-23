@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+.sidebutton{
+    @apply py-2 rounded-lg hover:bg-gray-200 transition duration-[100] py-3 pl-4 w-[94%] my-1 flex justify-start  
+}
+@tailwind utilities;
+
